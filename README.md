@@ -72,7 +72,8 @@
 ## ☕ Support the Author
 
 This software is developed and maintained for free. If this tool helps you save time and improve your work efficiency, please invest some funds as you wish! ❤️
-Bikash / Nagad / Rocket (Personal) +8801889560141
+
+**Bikash / Nagad / Rocket (Personal) +8801889560141**
 
 -----
 
