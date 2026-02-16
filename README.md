@@ -1,5 +1,3 @@
-[![Download Here](https://img.shields.io/badge/⬇_Download-Here-success?style=for-the-badge)](https://chromewebstore.google.com/detail/auto-flow-prompt-automati/lhcmnhdbddgagibbbgppakocflbnknoa)
-
 # 🎬 Auto Flow v7.5.5 - Automation for Google VEO AI [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![English](https://img.shields.io/badge/English-blue)](README.md) 
 
 **Auto Flow** is a powerful Chrome Extension designed to automate the video creation process on Google Flow (VEO). This tool allows you to go "AFK" (Away From Keyboard) and generate hundreds of videos from text or images without the need for repetitive manual interaction.
@@ -73,9 +71,8 @@
 
 ## ☕ Support the Author
 
-This software is developed and maintained for free. If this tool helps you save time and improve work efficiency, please consider buying the author a coffee\! ❤️
-
-[duckmartians.info](https://duckmartians.info)
+This software is developed and maintained for free. If this tool helps you save time and improve your work efficiency, please invest some funds as you wish! ❤️
+Bikash / Nagad / Rocket (Personal) +8801889560141
 
 -----
 
